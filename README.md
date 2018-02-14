@@ -1,7 +1,7 @@
 # AJAX
 ***
 ## AJAX > AjaxJS  
-==> Using AJAX with EcmaScript application web developed with HTML5, CSS3
+==> Using AJAX with EcmaScript, application web developed with HTML5, CSS3
   
 ## AJAX > AjaxjQ  
 ==> Using AJAX with jQuery, application web developed with HTML5, CSS3, Bootstrap4.x, jQuery3.2.1, MySQL5.7  
