@@ -1,10 +1,13 @@
 # AJAX
 ***
-## AJAX > AjaxJS  
+## Ajax > AjaxJS  
 ==> Using AJAX with EcmaScript, application web developed with HTML5, CSS3
   
-## AJAX > AjaxjQ  
-==> Using AJAX with jQuery, application web developed with HTML5, CSS3, Bootstrap4.x, jQuery3.2.1, MySQL5.7  
+## Ajax > AjaxjQ  
+==> Using AJAX with jQuery, application web developed with HTML5, CSS3, Bootstrap4.x, jQuery3.2.1, MySQL5.7, validate if an user name exists on a database.
+  
+## Ajax >  AjaxRegister 
+==> Using AJAX with jQuery, application web developed with HTML5, CSS3, Bootstrap4.x, jQuery3.2.1, MySQL5.7, register users into a database.  
   
     
 ***
