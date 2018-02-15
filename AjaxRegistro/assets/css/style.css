@@ -1,0 +1,19 @@
+/*----------------------------------------------
+				custom styles
+----------------------------------------------*/
+h1, h2, h3, h4, h5, h6{
+	text-shadow: 3px 3px 3px #00B546;	
+}
+.btn-form{
+	width: 10rem;
+	margin-top: 20px;
+}
+.btn-form:hover{
+	width: calc(10rem + 20px);
+}
+.form{
+	padding: 5%;
+	height: 50vh;
+	border: 1px solid black;
+	box-shadow: 5px 5px 15px #00B546;
+}
